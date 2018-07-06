@@ -2,7 +2,7 @@
 
 """
 @file: begin.py
-@brief: 
+@brief: begin the article spider
 @author: feihu1996.cn
 @date: 18-06-29
 @version: 1.0
